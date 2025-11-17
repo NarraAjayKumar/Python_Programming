@@ -1,0 +1,2 @@
+Hello, I am Ajay I am Learning python file handling.
+ I am enjoying learning file handling in python.
